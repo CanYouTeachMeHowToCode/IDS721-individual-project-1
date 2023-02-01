@@ -25,3 +25,7 @@ In this week, I learned some basics of Rust and the usage of Rust Project Templa
 ]
 ```
 > where the two boards above shows the only two valid solutions to the n-queens (4-queens here) problem with board size of 4.
+
+## Week 2 Progress
+
+This week I learned some basics of cloud computing and had some hands-on experience with AWS and Azure. Unfortuately, due to personal illness that lasted from Friday to Tuesday, this week my progress is low--I only viewed the tutorial and tried deploying an AWS lambda function with my n-queens game developed last week, yet this does not work as expected. Hopefully this will be resolved in the upcoming week. 
