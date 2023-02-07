@@ -1,1 +1,1 @@
-/workspaces/IDS721-individual-project-1/hello/target/debug/libhello.rlib: /workspaces/IDS721-individual-project-1/hello/src/lib.rs
+/workspaces/IDS721-individual-project-1/project1/target/debug/libhello.rlib: /workspaces/IDS721-individual-project-1/project1/src/lib.rs
