@@ -25,8 +25,8 @@ fn main() {
     let args = Cli::parse();
     match args.command {
         Some(Commands::NQueen { input }) => {
-            let res = hello::n_queens(input);
-            println!("{:#?}", res);
+            let res = containerized_n_queens_cli::n_queens(input);
+            println!("{res:#?}");
         }
         None => {
             println!("No command given");

@@ -1,5 +1,5 @@
 [package]
-name = "hello"
+name = "containerized_n_queens_cli"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 clap = {version="4.0.32", features=["derive"]}
+
+[dev-dependencies]
+assert_cmd = "1"
