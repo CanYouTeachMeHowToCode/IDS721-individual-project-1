@@ -1,4 +1,4 @@
-/*Command-line interface for N-Queens */
+/* Command-line interface for N-Queens */
 use clap::Parser;
 
 #[derive(Parser)]
